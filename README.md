@@ -1,1 +1,3 @@
 # twst_simulate
+ツイステのダメージシミュレータのリポジトリです。
+pythonのスクレイピングはSalmonizeよりいただきました。
