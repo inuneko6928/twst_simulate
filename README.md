@@ -1,3 +1,3 @@
 # twst_simulate
 ツイステのダメージシミュレータのリポジトリです。
-pythonのスクレイピングはSalmonizeよりいただきました。
+pythonのスクレイピング、excelのマクロは友人にいただきました。
